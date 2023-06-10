@@ -14,7 +14,7 @@ rootDirectory = PowerAccent.UI
 
 [config.relations.apiDefinition]
 rootDirectory = .github
-files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"Rachy.yaml","metaData":{}}
 
 [config.relations.apiDefinition.metaData]
-type = openapi:3
+type = openapi:3_1
