@@ -17,4 +17,4 @@ rootDirectory = .github
 files[] = {"path":"Rachy.yaml","metaData":{}}
 
 [config.relations.apiDefinition.metaData]
-type = openapi:3_1
+type = openapi:1
